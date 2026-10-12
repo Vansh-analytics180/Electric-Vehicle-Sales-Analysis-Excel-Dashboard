@@ -40,6 +40,9 @@ The dataset includes Sale ID, Sale Date, Customer Name, Gender, Age, State, City
 * Dashboard-based reporting
 
 ## Dashboard Preview
+<img width="979" height="743" alt="Screenshot 2026-10-12 091331" src="https://github.com/user-attachments/assets/51cd5480-441e-4cf7-88ea-e8b33fe2834a" />
+<img width="979" height="743" alt="Screenshot 2026-10-12 091331" src="https://github.com/user-attachments/assets/ace530b0-4c70-4419-a6f6-9bf86ffea915" />
+
 
 
 ## Key Performance Indicators
